@@ -10,17 +10,17 @@ The Stickies are a scaleable "sticky notes" with nested colors, font sizes, font
 - Red
 - Yellow
 
-### Font Sizes
+#### Font Sizes
 - 18px
 - 24px
 - 36px
 - 48px
 
-### Font Family
+#### Font Family
 - Open Sans 
 - Marker Felt
 
-### Text Align
+#### Text Align
 - Left
 - Center
 
